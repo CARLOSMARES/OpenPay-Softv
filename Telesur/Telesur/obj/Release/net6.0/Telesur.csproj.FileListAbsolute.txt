@@ -1,0 +1,83 @@
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\appsettings.Development.json
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\appsettings.json
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Telesur.exe
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Telesur.deps.json
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Telesur.runtimeconfig.json
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Telesur.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Telesur.pdb
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.csproj.AssemblyReference.cache
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.Properties.Resources.resources
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.csproj.GenerateResource.cache
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.GeneratedMSBuildEditorConfig.editorconfig
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.AssemblyInfoInputs.cache
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.AssemblyInfo.cs
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.csproj.CoreCompileInputs.cache
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.MvcApplicationPartsAssemblyInfo.cs
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.MvcApplicationPartsAssemblyInfo.cache
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets\msbuild.Telesur.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets\msbuild.build.Telesur.props
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Telesur.props
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Telesur.props
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets.pack.json
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets.build.json
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets.development.json
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\scopedcss\bundle\Telesur.styles.css
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.csproj.CopyComplete
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\refint\Telesur.dll
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.pdb
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.genruntimeconfig.cache
+D:\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\ref\Telesur.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\appsettings.Development.json
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\appsettings.json
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Telesur.exe
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Telesur.deps.json
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Telesur.runtimeconfig.json
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Telesur.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Telesur.pdb
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.csproj.AssemblyReference.cache
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.Properties.Resources.resources
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.csproj.GenerateResource.cache
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.AssemblyInfoInputs.cache
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.AssemblyInfo.cs
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.csproj.CoreCompileInputs.cache
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.MvcApplicationPartsAssemblyInfo.cs
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.MvcApplicationPartsAssemblyInfo.cache
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets\msbuild.Telesur.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets\msbuild.build.Telesur.props
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Telesur.props
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Telesur.props
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets.pack.json
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets.build.json
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\staticwebassets.development.json
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\scopedcss\bundle\Telesur.styles.css
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.csproj.CopyComplete
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\refint\Telesur.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.pdb
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\Telesur.genruntimeconfig.cache
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\ref\Telesur.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\bin\Release\net6.0\respuesta.json

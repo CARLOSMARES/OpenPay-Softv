@@ -1,0 +1,37 @@
+<div class="center" *ngIf="loginfrm">
+  <div class="login">
+    <!-- <h1>Login</h1> -->
+    <img src="../../assets/Logo-MB3.png" alt="LogoEmpresa" width="100%" height="150px" class="center">
+    <!--form method="post" autocomplete="off"-->
+    <input type="text" [(ngModel)]="username" id="user" placeholder="Username" required="required" autocomplete="off"
+      (keyup)="onKey($event)" />
+    <input type="password" [(ngModel)]="password" name="p" id="password" placeholder="Password" required="required"
+      autocomplete="off" minlength="5" id="pass" (keyup)="onKey($event)" />
+    <button type="submit" (click)="login()" class="btn btn-primary btn-block btn-large">I N G R E S A R</button>
+    <!--/form-->
+    <div class="alert alert-danger alert-dismissible fade show mt-1" role="alert" *ngIf="error">
+      <strong>{{messageError}}</strong>
+      <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+  </div>
+</div>
+<div *ngIf="!loginfrm" style="padding-top: 10%;padding-left: 5%; padding-right: 5%">
+  <div class="aviso">
+    <ul style="font-size: x-large;">
+      <li>
+        Por favor no cierre la aplicacion hasta que se complete el proceso de pago.
+      </li>
+      <li>
+        Se recomienda conservar el comprobante de pago para realizar cualquier aclaración.
+      </li>
+      <!-- <li>
+        Estamos a Sus Ordenes por WhatsApp o Linea Telefonica al numero 33 8880 1688.
+      </li> -->
+    </ul>
+    <span style="display: flex; justify-content: center;">
+      <button id="aceptar" class="btn btn-primary" (click)="initial()" [routerLink]="['/informacioncliente']">
+        Aceptar
+      </button>
+    </span>
+  </div>
+</div>

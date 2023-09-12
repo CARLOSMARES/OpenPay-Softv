@@ -1,0 +1,142 @@
+
+<div>
+  <div style="text-align: justify; padding-left: 15px;">
+    <div class="center">
+      <img src="../../assets/Logo-MB3.png" alt="LogoEmpresa" width="300px" height="150px">
+    </div>
+    <div style="width: 100%; text-align: justify;">
+      <Strong>
+        Nombre:
+      </Strong>
+      {{ nombre }}
+      <br>
+      <strong>
+        Contrato:
+      </strong>
+      {{ contrato }}
+      <br>
+      <strong>
+        Dirección:
+      </strong>
+      {{ direccion }}
+      <br>
+      <strong>
+        Colonia:
+      </strong>
+      {{ colonia }}
+      <br>
+      <strong>
+        Teléfono:
+      </strong>
+      {{ telefono }}
+    </div>
+  </div>
+  <header class="center">
+    Servicios
+  </header>
+  <div style="text-align: left;padding-left: 15px; padding-top: 10px">
+    <div *ngIf="sindetalle">
+      <div style="font-size: large;" *ngFor="let servicio of serviciocliente; let i=index">
+        <img style="vertical-align: middle;" class="icono" *ngIf="servicio.tv" src="../../assets/tv.png" alt="">
+        <img style="vertical-align: middle;" class="icono" *ngIf="servicio.tel" src="../../assets/telefono.png" alt="">
+        <img style="vertical-align: middle;" class="icono" *ngIf="servicio.wifi" src="../../assets/wifi.jfif" alt="">
+        {{ servicio.Descripcion }}
+      </div>
+    </div>
+    <div *ngIf="detalle" >
+      <table>
+        <tr>
+          <th>
+            <strong>
+              Descripción:
+            </strong>
+          </th>
+          <th>
+            <strong>
+              Importe:
+            </strong>
+          </th>
+        </tr>
+        <tr *ngFor="let concepto of dl;">
+          <td style="width: 70%;" class="text-start">
+            {{ concepto.DESCORTA }}
+          </td>
+          <td style="width: 30%;" class="pe-2 text-end">
+            $ {{ concepto.importe }} .00
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <header class="center">
+    Total de Saldos
+  </header>
+  <div style="text-align: justify; padding-left: 15px;">
+    <strong>
+      Subtotal:
+    </strong>
+    {{ subtotal }}
+    <br>
+    <strong>
+      Total Puntos Aplicados:
+    </strong>
+    {{ totalpuntos }}
+    <br>
+    <strong>
+      Importe Total:
+    </strong>
+    {{ importetotal }}
+  </div>
+  <div>
+    <header class="center">
+      Pago
+    </header>
+    <div style="padding: 10px; float: left; width: 50%; text-align: justify">
+      <strong>
+        Importe Total:
+      </strong>
+      <br>
+      <h4>
+        <b>
+          {{ importetotal }}
+        </b>
+      </h4>
+    </div>
+    <div style="padding: 10px; float: right; width: 50%; text-align: justify;">
+      <strong>
+        Fecha de Consulta:
+      </strong>
+      <br>
+      <h4>
+        {{ fecha }}
+      </h4>
+    </div>
+  </div>
+  <div style="widht:100%; padeing-top: 10px">
+    <div style="widht:100%; justify-content: space-between;">
+      <button class="btn btn-primary" (click)="mostrardetalle()" style="padding-left: 2%; margin-left: 1%;">
+        Detalles
+      </button>
+      <button class="btn btn-primary" [routerLink]="['/tarjeta']" style="padding-left:2%; margin-left: 1%;">
+        Pagar
+      </button>
+      <button class="btn btn-primary" (click)="logout()" [routerLink]="['/']" style="padding-left: 2%; margin-left: 1%;">
+        Salir
+      </button>
+      <br>
+      <br>
+      <button class="btn btn-prueba" style="padding-left: 2%; margin-left: 1%;" [routerLink]="['/politica']" >
+        Politica de Privacidad
+      </button>
+      <a class="btn btn-prueba" style="padding-left: 2%; margin-left: 1%;" href="https://documents.openpay.mx/docs/terminos-servicio.html?gad=1&gclid=CjwKCAjw-IWkBhBTEiwA2exyO9s1ofKpjNW5BmQFFan-eW59BIgTzxUU7ZA1H3jVkHlWpLs3BVFxihoC1ZgQAvD_BwE" target="_blank">
+        Terminos y Condiciones
+      </a>
+      <br>
+      <br>
+      <button [routerLink]="['/changepassword']" class="btn btn-cp" style="padding-left: 2%; margin-left: 1%;" >
+        Cambiar Contraseña
+      </button>
+    </div>
+    <br>
+  </div>
+</div>

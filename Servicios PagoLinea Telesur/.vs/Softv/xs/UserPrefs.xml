@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{9F3E8041-E0DF-4C32-9FE6-84EBA2537FD2}|">
+  <MonoDevelop.Ide.ItemProperties.Service.SoftvWCFService PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Softv" expanded="True">
+            <Node name="Service" expanded="True">
+              <Node name="SoftvWCFService" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

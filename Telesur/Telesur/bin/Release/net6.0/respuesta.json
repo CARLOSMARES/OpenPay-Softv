@@ -1,0 +1,16 @@
+{"type":"charge.succeeded","event_date":"2023-05-25T14:15:07-06:00","Transaction":
+{"id":"trbfuksq7iwvxrodhuei","authorization":"821269",
+"operation_type":"in","Transaction_type":"charge","status":"completed","conciliated":false,
+"creation_date":"2023-05-25T14:13:21-06:00","operation_date":"2023-05-25T14:15:06-06:00",
+"description":"Pago en linea a cosmored","error_message":null,"order_id":"20230525_02_13_20-27769-1-515831",
+"Card":{"type":"credit","brand":"visa","address":null,"Card_number":"407561XXXXXX8188",
+"holder_name":"Marcos Jimenez Quintero","expiration_year":"26","expiration_month":"10",
+"allows_charges":true,"allows_payouts":false,"bank_name":"TARJETAS DEL FUTURO","bank_code":"000"},
+"amount":1.00,"customer":{"name":"PAGOS WEB 2","last_name":null,"email":"27769-1@cosmored.net",
+"phone_number":null,"address":null,"creation_date":"2023-05-25T14:13:21-06:00","external_id":null,
+"clabe":null},"fee":{"amount":0.0225,"tax":0.0036,"currency":"MXN"},"metadata":
+{"Aceptación de politica de privacidad de  comprador":"jueves, mayo 25 2023, 14:14:43",
+"Aceptación término y condiciones de comprador":"jueves, mayo 25 2023, 14:14:43"},
+"payment_method":{"type":"redirect",
+"url":"https://api.openpay.mx/v1/mm6l72ek85a86y1x0vlx/charges/trbfuksq7iwvxrodhuei/redirect"
+},"currency":"MXN","method":"Card"}}

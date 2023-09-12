@@ -1,0 +1,14 @@
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\CosmoRed.exe
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\CosmoRed.deps.json
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\CosmoRed.runtimeconfig.json
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\CosmoRed.pdb
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\sni.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\System.Data.SqlClient.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Telesur\Telesur\obj\Release\net6.0\win-x64\PubTmp\Out\CosmoRed.dll

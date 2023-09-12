@@ -1,0 +1,6 @@
+{
+    "/SoftvWCFService.svc": {
+      "target": "https://1d7c-177-249-161-224.ngrok.io",
+      "secure": false
+    }
+  }
