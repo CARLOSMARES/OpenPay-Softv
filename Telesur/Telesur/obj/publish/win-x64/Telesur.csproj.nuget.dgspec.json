@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\Telesur.csproj": {}
+    "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\Telesur.csproj": {}
   },
   "projects": {
-    "D:\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\Telesur.csproj": {
+    "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\Telesur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\Telesur.csproj",
+        "projectUniqueName": "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\Telesur.csproj",
         "projectName": "Telesur",
-        "projectPath": "D:\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\Telesur.csproj",
+        "projectPath": "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\Telesur.csproj",
         "packagesPath": "C:\\Users\\micro\\.nuget\\packages\\",
-        "outputPath": "D:\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\obj\\publish\\win-x64\\",
+        "outputPath": "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\micro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,8 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net6.0": {
@@ -47,7 +43,7 @@
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[13.0.2, )"
+              "version": "[13.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -73,20 +69,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[6.0.14, 6.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[6.0.14, 6.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[6.0.14, 6.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -95,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

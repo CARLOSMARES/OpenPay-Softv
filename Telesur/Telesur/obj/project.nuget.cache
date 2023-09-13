@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iV9ZIysBGd6veNKFACEo9XnhS1kHtiRy5HTRvgTK/0kBhWJb5BWyRClyBFzBAizvGhp3kEc3AXEzZg+ox7mWeg==",
+  "dgSpecHash": "GE8kB4pKRj0SE/lnTfQbXO2TVS3RjGr7oagWEwHjg3dzGRsTg6olazlTKbIGe+YjHGXVe9iUfie6CGQjE+vI5g==",
   "success": true,
-  "projectFilePath": "D:\\Softv Project\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\Telesur.csproj",
+  "projectFilePath": "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\Telesur.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\micro\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

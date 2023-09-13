@@ -1463,11 +1463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Softv Project\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\CosmoRed.csproj",
-      "projectName": "CosmoRed",
-      "projectPath": "D:\\Softv Project\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\CosmoRed.csproj",
+      "projectUniqueName": "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\Telesur.csproj",
+      "projectName": "Telesur",
+      "projectPath": "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\Telesur.csproj",
       "packagesPath": "C:\\Users\\micro\\.nuget\\packages\\",
-      "outputPath": "D:\\Softv Project\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\obj\\publish\\win-x64\\",
+      "outputPath": "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1478,8 +1478,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesource": {}
       },
       "frameworks": {
         "net6.0": {
@@ -1525,24 +1525,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[6.0.16, 6.0.16]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-            "version": "[6.0.16, 6.0.16]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[6.0.16, 6.0.16]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[6.0.16, 6.0.16]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1551,7 +1533,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Softv Project\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\Telesur.csproj": {}
+    "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\Telesur.csproj": {}
   },
   "projects": {
-    "D:\\Softv Project\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\Telesur.csproj": {
+    "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\Telesur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Softv Project\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\Telesur.csproj",
+        "projectUniqueName": "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\Telesur.csproj",
         "projectName": "Telesur",
-        "projectPath": "D:\\Softv Project\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\Telesur.csproj",
+        "projectPath": "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\Telesur.csproj",
         "packagesPath": "C:\\Users\\micro\\.nuget\\packages\\",
-        "outputPath": "D:\\Softv Project\\PASARELAS PAGOS\\Telesur\\Telesur\\Telesur\\obj\\",
+        "outputPath": "D:\\Softv Project\\PASARELAS PAGOS\\OpenPay\\Telesur\\Telesur\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net6.0": {

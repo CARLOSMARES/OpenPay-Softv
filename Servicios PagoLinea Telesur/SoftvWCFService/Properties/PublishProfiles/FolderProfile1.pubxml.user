@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2023-09-12T16:43:18.2711965Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CrystalDecisions.CrystalReports.Engine.dll">
+      <publishTime>08/07/2014 10:50:00</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportSource.dll">
+      <publishTime>08/07/2014 10:44:58</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Shared.dll">
+      <publishTime>08/07/2014 10:51:44</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Web.dll">
+      <publishTime>03/03/2016 10:50:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>05/09/2023 13:19:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Primitives.dll">
+      <publishTime>05/09/2023 13:19:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>05/10/2023 11:46:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>05/10/2023 11:19:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>05/10/2023 11:22:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>05/10/2023 11:32:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Net.Http.Headers.dll">
+      <publishTime>10/09/2019 11:35:38</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 01:09:56</publishTime>
+    </File>
+    <File Include="bin/Openpay.dll">
+      <publishTime>03/01/2021 19:47:32</publishTime>
+    </File>
+    <File Include="bin/SoftvWCFService.dll">
+      <publishTime>09/12/2023 10:43:16</publishTime>
+    </File>
+    <File Include="bin/SoftvWCFService.pdb">
+      <publishTime>09/12/2023 10:43:16</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 04:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Configuration.dll">
+      <publishTime>03/28/2019 02:11:14</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>05/10/2023 11:17:56</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>05/07/2022 22:31:02</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Extensions.dll">
+      <publishTime>07/13/2020 15:15:15</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Primitives.dll">
+      <publishTime>07/13/2020 15:15:15</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 08:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>03/02/2022 09:39:44</publishTime>
+    </File>
+    <File Include="bin/System.Text.Encodings.Web.dll">
+      <publishTime>05/09/2023 13:19:38</publishTime>
+    </File>
+    <File Include="bin/System.Text.Json.dll">
+      <publishTime>05/09/2023 13:26:06</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 04:05:18</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>05/15/2018 08:29:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.DynamicData.dll">
+      <publishTime>03/28/2019 02:11:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Entity.dll">
+      <publishTime>03/28/2019 02:11:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Services.dll">
+      <publishTime>03/28/2019 02:11:14</publishTime>
+    </File>
+    <File Include="bin/System.Xml.dll">
+      <publishTime>03/28/2019 02:11:14</publishTime>
+    </File>
+    <File Include="LICENSE">
+      <publishTime>04/20/2022 10:24:54</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/22/2023 12:39:36</publishTime>
+    </File>
+    <File Include="SoftvWCFService.svc">
+      <publishTime>07/13/2020 15:15:15</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/12/2023 10:43:17</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
