@@ -1,0 +1,88 @@
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\appsettings.Development.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\appsettings.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.exe
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.deps.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.runtimeconfig.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.pdb
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.xml
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Microsoft.OpenApi.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.csproj.AssemblyReference.cache
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.AssemblyInfoInputs.cache
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.AssemblyInfo.cs
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.csproj.CoreCompileInputs.cache
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.MvcApplicationPartsAssemblyInfo.cs
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.MvcApplicationPartsAssemblyInfo.cache
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets\msbuild.Pagos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets\msbuild.build.Pagos.props
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets\msbuild.buildMultiTargeting.Pagos.props
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets\msbuild.buildTransitive.Pagos.props
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets.pack.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets.build.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets.development.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\scopedcss\bundle\Pagos.styles.css
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.csproj.CopyComplete
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\refint\Pagos.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.xml
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.pdb
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.genruntimeconfig.cache
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0-windows\ref\Pagos.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\bin\Release\net6.0-windows\Error.json
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\appsettings.Development.json
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\appsettings.json
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Error.json
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\body.json
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\respuesta.json
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.exe
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.deps.json
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.runtimeconfig.json
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.pdb
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Pagos.xml
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.csproj.AssemblyReference.cache
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.AssemblyInfoInputs.cache
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.AssemblyInfo.cs
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.csproj.CoreCompileInputs.cache
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets\msbuild.Pagos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets\msbuild.build.Pagos.props
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets\msbuild.buildMultiTargeting.Pagos.props
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets\msbuild.buildTransitive.Pagos.props
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets.pack.json
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets.build.json
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\staticwebassets.development.json
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\scopedcss\bundle\Pagos.styles.css
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.csproj.CopyComplete
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\refint\Pagos.dll
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.xml
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.pdb
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\Pagos.genruntimeconfig.cache
+C:\Users\Edy\Desktop\Pagos\Pagos\obj\Release\net6.0-windows\ref\Pagos.dll

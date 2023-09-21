@@ -63,17 +63,19 @@ namespace SoftvWCFService
         public UsuarioLoginEntity LogOn()
         {
             var asd = WebOperationContext.Current.IncomingRequest.Method;
-
+            //Si la peticion es option
             if (WebOperationContext.Current.IncomingRequest.Method == "OPTIONS")
             {
                 return null;
             }
+            //Si la autorisacion es nula
             if (WebOperationContext.Current.IncomingRequest.Headers["Authorization"] == null)
             {
                 WebOperationContext.Current.OutgoingResponse.Headers.Add("WWW-Authenticate: Basic realm=\"myrealm\"");
                 throw new WebFaultException<string>("Acceso no autorizado, favor de validar autenticación", HttpStatusCode.Unauthorized);
             }
-            else // Decode the header, check password
+            //Si todo bien, decodifica
+            else
             {
                 string encodedUnamePwd = GetEncodedCredentialsFromHeader();
                 if (!string.IsNullOrEmpty(encodedUnamePwd))
@@ -159,6 +161,7 @@ namespace SoftvWCFService
             }
         }
 
+        //Extrar la codificacion basic
         private static string GetEncodedCredentialsFromHeader()
         {
             WebOperationContext ctx = WebOperationContext.Current;

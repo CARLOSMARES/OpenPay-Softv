@@ -19,46 +19,31 @@ export class HomeComponent implements OnInit {
   error:any=false;
   messageError:string="";
   prueba: any;
-
   constructor( private cookies: CookieService) {
-
     this.isOnline = false;
-
+    
   }
 
   ngOnInit(): void {
-
     this.prueba = "Hola Mundo";
-
     this.updateOnlineStatus();
-
     window.addEventListener('online', this.updateOnlineStatus.bind(this));
-
     window.addEventListener('offline', this.updateOnlineStatus.bind(this));
   }
 
   private updateOnlineStatus(): void {
-
     this.isOnline = window.navigator.onLine;
-
     console.info(`isOnline=[${this.isOnline}]`);
-
   }
 
   initial(): void {
-
     this.loginfrm = true;
-
     this.avisofrm = false;
-
     this.username = "";
-
     this.password = "";
-
   }
 
   async login() {
-
     if ((this.username === "" && this.password === "") || (this.username === "" || this.password === "")) {
       /*const alert = await this.alertController.create({
         header: 'Alert',
@@ -69,13 +54,9 @@ export class HomeComponent implements OnInit {
       await alert.present();*/
     }
     else {
-
       console.clear()
-
-
       if (this.username.length != 0) {
         if (this.password.length != 0) {
-
           let token: any = btoa(`${this.username}:${this.password}`);
           //console.log(token)
           let parametros: any = {

@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  server: "https://pagos.micabletelesur.com/SoftvWCFService.svc"
+  server: "http://localhost:64481/SoftvWCFService.svc"
 };
 
 /*

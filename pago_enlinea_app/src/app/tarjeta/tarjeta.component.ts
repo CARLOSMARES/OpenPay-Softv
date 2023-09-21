@@ -65,8 +65,6 @@ export class TarjetaComponent implements OnInit {
 
   }
 
-
-
   reedirigir() {
 
     let config = {
@@ -74,6 +72,7 @@ export class TarjetaComponent implements OnInit {
         'Authorization': `Basic: ${this.token}`
       }
     }
+
 
     let data = {
       Clv_Session: this.clv_session,

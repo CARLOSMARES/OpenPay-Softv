@@ -125,7 +125,7 @@ namespace SoftvWCFService.Functions
                 db.conexion.Dispose();
 
                 OpenpayAPI api = new OpenpayAPI(parametrosOpenPay.LlavePrivada, parametrosOpenPay.ID);
-                api.Production = true;
+                api.Production = false;
                 ChargeRequest request = new ChargeRequest();
                 Customer customer = new Customer();
                 customer.Name = datosCliente.SoloNombre;
@@ -142,6 +142,7 @@ namespace SoftvWCFService.Functions
                 request.RedirectUrl = "https://pagos.micabletelesur.com/#/home";//"http://915009d10274.sn.mynetname.net:10443/SoftvWCFService.svc/Ecom_PagoEnLinea/GetNotificacionesWebhook";
                 request.Customer = customer;
                 request.Currency = "MXN";
+
                
 
                 Charge charge = api.ChargeService.Create(request);

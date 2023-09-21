@@ -1,0 +1,17 @@
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Pagos.exe
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Error.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Pagos.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Pagos.deps.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Pagos.runtimeconfig.json
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Pagos.pdb
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\BouncyCastle.Crypto.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\System.Data.SqlClient.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\sni.dll
+D:\Softv Project\PASARELAS PAGOS\Prosa\Pagos\Pagos\obj\Release\net6.0\win-x64\PubTmp\Out\Pagos.xml

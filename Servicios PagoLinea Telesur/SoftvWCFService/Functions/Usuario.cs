@@ -222,13 +222,11 @@ namespace SoftvWCFService.Functions
         {
             using (SqlConnection connection = new SqlConnection(ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString))
             {
-
                 SqlCommand comandoSql = CreateCommand("AccesoWeb_PorUsuario_linea", connection);
                 //SqlCommand comandoSql = CreateCommand("Softv_UsuarioGetusuarioByUserAndPass", connection);
                 UsuarioLoginEntity entity_Usuario = null;
                 AssingParameter(comandoSql, "@Login", Usuariox);
                 AssingParameter(comandoSql, "@Pasaporte", Pass);
-
                 IDataReader rd = null;
                 try
                 {
@@ -237,13 +235,10 @@ namespace SoftvWCFService.Functions
                     rd = ExecuteReader(comandoSql, CommandBehavior.SingleRow);
                     if (rd.Read())
                         entity_Usuario = GetUsuarioFromReader(rd);
-
                     rd.Close();
-
                 }
                 catch (Exception ex)
                 {
-                    
                     throw new Exception("Error Get usuario By User And Pass " + ex.Message, ex);
                 }
                 finally
