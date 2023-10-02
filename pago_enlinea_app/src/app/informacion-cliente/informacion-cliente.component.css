@@ -10,3 +10,78 @@
     margin-right: 20px;*/
     padding-top: 10px;
   }
+
+  /*DISEÑO MODAL*/
+  .custom-modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 10% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 600px;
+    border-radius: 8px;
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.modal-header h2 {
+    margin: 0;
+}
+
+.close {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: #555;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.barcode-image {
+    max-width: 100%;
+    height: auto;
+}
+.payment-info {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.payment-info img {
+  max-width: 100px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.payment-info h3, .payment-info p, .payment-info h4, .payment-info ul {
+  margin: 5px 0;
+}
+
+.payment-info ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.payment-info ul li {
+  margin-left: 20px;
+}

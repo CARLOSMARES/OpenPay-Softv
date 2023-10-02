@@ -2,25 +2,29 @@ import { Component, OnInit } from '@angular/core';
 import axios from 'axios';
 import { CookieService } from 'ngx-cookie-service';
 import { environment } from 'src/environments/environment';
+import * as JsBarcode from 'jsbarcode';
+import { FormsModule } from '@angular/forms';
+
 
 @Component({
   selector: 'app-informacion-cliente',
   templateUrl: './informacion-cliente.component.html',
   styleUrls: ['./informacion-cliente.component.css']
 })
+
 export class InformacionClienteComponent implements OnInit{
+
+  //Agregue estos
+  idprosa: any;
+  amount: any;
+  urlBarcode: any;
+
   logout() {
-
     localStorage.clear();
-
     localStorage.clear();
-
     this.cookies.deleteAll();
-
     this.cookies.delete("token");
-
     window.close();
-
   }
 
   mostrardetalle() {
@@ -52,6 +56,7 @@ export class InformacionClienteComponent implements OnInit{
   subtotal: any;
   totalpuntos: any;
   importetotal: any;
+  storeModalOpen:any;
   clv_session: any;
   currentpay: any;
   currentuser: any;
@@ -71,7 +76,7 @@ export class InformacionClienteComponent implements OnInit{
     {
       window.location.href="/home"
     }
-
+    this.urlBarcode = "";
     this.url = "https://documents.openpay.mx/docs/terminos-servicio.html?gad=1&gclid=CjwKCAjw-IWkBhBTEiwA2exyO9s1ofKpjNW5BmQFFan-eW59BIgTzxUU7ZA1H3jVkHlWpLs3BVFxihoC1ZgQAvD_BwE";
 
       this.currentuser = JSON.parse(this.currentuser);
@@ -89,8 +94,49 @@ export class InformacionClienteComponent implements OnInit{
       this.obtenerdatospago();
   }
 
-  ngOnInit() {
+  //COdigo de barras
+  barOk = false
+  
+  openStoreModal(){
+    this.storeModalOpen = true;
+    this.getBarcode();
+  }
+  closeStoreModal(){
+    this.storeModalOpen = false;
+  }
+  getBarcode(){
+    //Obtenemos datos de las cookies
+    this.currentuser = window.localStorage.getItem("CurrentUser");
+    this.currentuser = JSON.parse(this.currentuser);
+    this.contrato = this.currentuser.contrato;
+    this.token = this.cookies.get("token");
+    this.currentpay = window.localStorage.getItem("currentPay");
+    this.clv_session = JSON.parse(this.currentpay);
+    this.clv_session = this.clv_session.clv_session;
+    this.amount = window.localStorage.getItem("monto");
+    let config = {
+      headers: {
+        'Authorization': `Basic: ${this.token}`
+      }
+    }
+    let data = {
+      Clv_Session: this.clv_session,
+      Contrato: this.contrato,
+      Total: this.amount
+    }
+    axios.post(environment.server + "/Ecom_PagoEnLinea/GetGeneraDatosPagoStore", data, config).then((gdp) => {
+      console.log("Si hubo respuesta")
+      localStorage.clear();
+      localStorage.clear();
+      this.cookies.deleteAll();
+      this.cookies.delete("token");
+      console.clear()
+      this.urlBarcode = gdp.data.GetGeneraDatosPagoStoreResult.URLRedireccion;
+      window.location.href = this.urlBarcode;
+    });
+  }
 
+  ngOnInit() {
     // if(this.clv_session != null)
     // {
     //   this.obtenerdatospago();
@@ -98,12 +144,9 @@ export class InformacionClienteComponent implements OnInit{
     // else{
     //   window.location.href = "/#/home/"
     // }
-
-
   }
 
   obtenerdatospago() {
-
     let config = {
       headers: {
         'Authorization': `Basic ${this.token}`
@@ -117,8 +160,6 @@ export class InformacionClienteComponent implements OnInit{
     const contratos = {
       Contrato: this.contrato
     };
-
-    console.log(contratos);
 
     axios.post(environment.server + "/Ecom_PagoEnLinea/GetDameServicioCliente", contratos, config)
     .then((ServicioList)=>{

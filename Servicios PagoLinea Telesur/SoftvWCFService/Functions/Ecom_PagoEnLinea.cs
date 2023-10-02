@@ -99,11 +99,72 @@ namespace SoftvWCFService.Functions
             }
 
         }
+        //Funcion openpay store
+        public ParametrosPagoRedireccionEntity GetGeneraDatosPagoStore(long? Clv_Session, long? Contrato, decimal Total)
+        {
+            ParametrosPagoRedireccionEntity result = new ParametrosPagoRedireccionEntity();
+            ParametrosOpenPayEntity parametrosOpenPay = new ParametrosOpenPayEntity();
+            DatosClienteEntity datosCliente = new DatosClienteEntity();
+           
+            //Crear conexion a la bdd
+            DBFuncion dbDatosCliente = new DBFuncion();
+            dbDatosCliente.agregarParametro("@Contrato", SqlDbType.BigInt, Contrato);
+            //Obtiene los datos del cliente
+            SqlDataReader readerDatosCliente = dbDatosCliente.consultaReader("ObtieneDatosClientePagoLinea");
+            datosCliente = dbDatosCliente.MapDataToEntityCollection<DatosClienteEntity>(readerDatosCliente).FirstOrDefault();
+            //Cierra conexion
+            dbDatosCliente.conexion.Close();
+            dbDatosCliente.conexion.Dispose();
+            try
+            {
+                //Obtiene la url para la pasarela de pagos
+                DBFuncion db = new DBFuncion();
+                SqlDataReader reader = db.consultaReader("ObtieneParametrosOpenPay");
+                parametrosOpenPay = db.MapDataToEntityCollection<ParametrosOpenPayEntity>(reader).FirstOrDefault();
+                db.conexion.Close();
+                db.conexion.Dispose();
+
+                //Se crea una clase de openpay
+                OpenpayAPI api = new OpenpayAPI(parametrosOpenPay.LlavePrivada, parametrosOpenPay.ID);
+                api.Production = false;
+                //Se le agregan los parametros
+                ChargeRequest request = new ChargeRequest();
+                Customer customer = new Customer();
+                customer.Name = datosCliente.SoloNombre;
+                customer.LastName = datosCliente.SoloApellidos;
+                customer.PhoneNumber = datosCliente.Telefono;
+                customer.Email = datosCliente.Email;
+                request.Method = "store";
+                request.Amount = decimal.Parse(Total.ToString("0.##"));
+                request.Description = "Cargo pago en tienda Ficasa";
+                request.OrderId = Clv_Session.ToString();
+                request.Confirm = "false";
+                request.SendEmail = true;
+                request.RedirectUrl = "https://pagos.micabletelesur.com/#/home";
+                request.Customer = customer;
+                request.Currency = "MXN";
+
+                //Crea un cargo a la api
+                Charge charge = api.ChargeService.Create(request);
+
+                //Guarda la respuesta en sessionOpenpay
+                DBFuncion dbGuarda = new DBFuncion();
+                dbGuarda.agregarParametro("@Clv_Session", SqlDbType.BigInt, Clv_Session);
+                dbGuarda.agregarParametro("@ID", SqlDbType.VarChar, charge.Id);
+                dbGuarda.agregarParametro("@Contrato", SqlDbType.BigInt, Contrato);
+                dbGuarda.consultaSinRetorno("GuardaSessionOpenPayID");
+
+                result.URLRedireccion = "https://sandbox-dashboard.openpay.mx/paynet-pdf/mitk1h53si6snxfa49dj/"+charge.PaymentMethod.Reference;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error getting data Get Contrato " + ex.Message, ex);
+            }
+            return result;
+        }
 
         public ParametrosPagoRedireccionEntity GetGeneraDatosPago(long? Clv_Session, long? Contrato, decimal Total)
         {
-
-
             ParametrosPagoRedireccionEntity result = new ParametrosPagoRedireccionEntity();
             ParametrosOpenPayEntity parametrosOpenPay = new ParametrosOpenPayEntity();
             DatosClienteEntity datosCliente = new DatosClienteEntity();
@@ -139,14 +200,11 @@ namespace SoftvWCFService.Functions
                 request.OrderId = Clv_Session.ToString();
                 request.Confirm = "false";
                 request.SendEmail = true;
-                request.RedirectUrl = "https://pagos.micabletelesur.com/#/home";//"http://915009d10274.sn.mynetname.net:10443/SoftvWCFService.svc/Ecom_PagoEnLinea/GetNotificacionesWebhook";
+                request.RedirectUrl = "https://pagos.micabletelesur.com/#/home";
                 request.Customer = customer;
                 request.Currency = "MXN";
 
-               
-
                 Charge charge = api.ChargeService.Create(request);
-
 
                 DBFuncion dbGuarda = new DBFuncion();
                 dbGuarda.agregarParametro("@Clv_Session", SqlDbType.BigInt, Clv_Session);

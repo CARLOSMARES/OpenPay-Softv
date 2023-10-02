@@ -1,0 +1,14 @@
+
+  .icon-text svg {
+    margin-right: 8px; /* Ajusta el espacio entre el icono y el texto según tu preferencia */
+  }
+
+/*Animacion*/
+.icon-text {
+    transition: background-color 0.3s; /* Define la transición para el color de fondo */
+    cursor: pointer; /* Cambia el cursor cuando se pasa por encima */
+}
+
+.icon-text:hover {
+    background-color: #f0f0f0; /* Cambia el color de fondo cuando se pasa el mouse por encima */
+}

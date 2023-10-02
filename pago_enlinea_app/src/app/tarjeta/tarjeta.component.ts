@@ -21,11 +21,9 @@ export class TarjetaComponent implements OnInit {
   amount: any;
   url: any;
 
-
   constructor(private cookies: CookieService, private router: Router, location: LocationStrategy) {
     //Primera Validacion para Edge PC
     //Segunda Validacion para Chrome y para Safari PC
-
 
    location.onPopState(() => {
     alert("Usted será redirigido al inicio.");
@@ -49,30 +47,21 @@ export class TarjetaComponent implements OnInit {
     }
   }
 
-
   ngOnInit() {
     //Primera Validacion para Edge
     //Segunda Validacion para Chrome y para Safari
-
-
     history.pushState(null, document.title, location.href);
-
     if ((localStorage.length == 1 && sessionStorage.length == 0) || (localStorage.length == 0 && sessionStorage.length == 0)) {
-
       this.router.navigate(["home"]);
     }
-
-
   }
 
   reedirigir() {
-
     let config = {
       headers: {
         'Authorization': `Basic: ${this.token}`
       }
     }
-
 
     let data = {
       Clv_Session: this.clv_session,
@@ -82,20 +71,12 @@ export class TarjetaComponent implements OnInit {
     localStorage.removeItem("currentuser");
     axios.post(environment.server + "/Ecom_PagoEnLinea/GetGeneraDatosPago", data, config)
       .then((gdp) => {
-
         localStorage.clear();
-
         localStorage.clear();
-
-
         this.cookies.deleteAll();
-
         this.cookies.delete("token");
-
         window.location.href = gdp.data.GetGeneraDatosPagoResult.URLRedireccion;
-
       });
-
   }
 
   recargar(){

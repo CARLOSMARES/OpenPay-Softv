@@ -26,9 +26,9 @@ if (app.Environment.IsDevelopment())
 }
 app.UseHttpsRedirection();
 
-app.MapGet("/eii", () => "Servidor EII");
+app.MapGet("/ficasa", () => "Servidor Ficasa");
 
-app.MapPost("/eii/webhook", ([FromBody] object? myJsonResponse) =>
+app.MapPost("/ficasa/webhook", ([FromBody] object? myJsonResponse) =>
 {
     try
     {
@@ -40,16 +40,30 @@ app.MapPost("/eii/webhook", ([FromBody] object? myJsonResponse) =>
         Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse.ToString());
         if (myDeserializedClass.type != "verification")
         {
-            using (SqlConnection cnn = new SqlConnection("Server=192.168.50.241\\lab11;Database=NewSoftvWeb;User Id=sa;Password=0601x-2L;"))
+            using (SqlConnection cnn = new SqlConnection("Server=192.168.50.241\\lab7;Database=NewSoftvWeb;User Id=sa;Password=0601x-2L;"))
             {
                 cnn.Open();
-                SqlCommand sqlCommand = new SqlCommand("AfectaPagoNotificacionOpenPay", cnn);
-                sqlCommand.CommandType = CommandType.StoredProcedure;
-                sqlCommand.Parameters.Add("@Clv_Session", SqlDbType.BigInt).Value = myDeserializedClass.Transaction.order_id == null ? 0 : int.Parse(myDeserializedClass.Transaction.order_id);
-                sqlCommand.Parameters.Add("@ID", SqlDbType.VarChar).Value = myDeserializedClass.Transaction.id;
-                sqlCommand.Parameters.Add("@JsonResponse", SqlDbType.VarChar).Value = myJsonResponse.ToString();
-                sqlCommand.Parameters.Add("@type", SqlDbType.VarChar).Value = myDeserializedClass.type;
-                sqlCommand.ExecuteNonQuery();
+                if (myDeserializedClass.Transaction.payment_method.type == "redirect")
+                {
+                    SqlCommand sqlCommand = new SqlCommand("AfectaPagoNotificacionOpenPay", cnn);
+                    sqlCommand.CommandType = CommandType.StoredProcedure;
+                    sqlCommand.Parameters.Add("@Clv_Session", SqlDbType.BigInt).Value = myDeserializedClass.Transaction.order_id == null ? 0 : int.Parse(myDeserializedClass.Transaction.order_id);
+                    sqlCommand.Parameters.Add("@ID", SqlDbType.VarChar).Value = myDeserializedClass.Transaction.id;
+                    sqlCommand.Parameters.Add("@JsonResponse", SqlDbType.VarChar).Value = myJsonResponse.ToString();
+                    sqlCommand.Parameters.Add("@type", SqlDbType.VarChar).Value = myDeserializedClass.type;
+                    sqlCommand.ExecuteNonQuery();
+                }
+                if (myDeserializedClass.Transaction.payment_method.type == "store")
+                {
+                    SqlCommand sqlCommand = new SqlCommand("AfectaPagoNotificacionOpenPayStore", cnn);
+                    sqlCommand.CommandType = CommandType.StoredProcedure;
+                    sqlCommand.Parameters.Add("@Clv_Session", SqlDbType.BigInt).Value = myDeserializedClass.Transaction.order_id == null ? 0 : int.Parse(myDeserializedClass.Transaction.order_id);
+                    sqlCommand.Parameters.Add("@ID", SqlDbType.VarChar).Value = myDeserializedClass.Transaction.id;
+                    sqlCommand.Parameters.Add("@JsonResponse", SqlDbType.VarChar).Value = myJsonResponse.ToString();
+                    sqlCommand.Parameters.Add("@type", SqlDbType.VarChar).Value = myDeserializedClass.type;
+                    //sqlCommand.Parameters.Add("@barcode", SqlDbType.VarChar).Value = myDeserializedClass.Transaction.payment_method.url;
+                    sqlCommand.ExecuteNonQuery();
+                }
                 cnn.Close();
                 return Results.Ok();
             }
@@ -63,8 +77,6 @@ app.MapPost("/eii/webhook", ([FromBody] object? myJsonResponse) =>
     {
         return Results.NotFound();
     }
-
-
 });
 
 app.Run();

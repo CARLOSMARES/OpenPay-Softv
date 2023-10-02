@@ -34,7 +34,8 @@ namespace SoftvWCFService
         /// </summary>
         /// <param name="nombre"></param>
         /// <param name="tipo"></param>
-        /// <param name="valor"></param>
+        /// <param name="valo
+        /// r"></param>
         public void agregarParametro(string nombre, SqlDbType tipo, Object valor)
         {
             SqlParameter parametro = new SqlParameter(nombre, tipo);

@@ -1,0 +1,19 @@
+<div class="bg-grad container-fluid d-flex align-items-center justify-content-center" style="height: 100vh;">
+    <div class="col-md-6 text-center border shadow p-3 mb-5 bg-white rounded p-4">
+        <img src="../../assets/LOGO-Eii.png" alt="Logo" style="max-width: 100px;">
+       
+            <div class="container">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-8 form-group mt-3">
+                        <label class="col-12" for="username">Usuario</label>
+                        <input type="text" class="form-control" id="username" placeholder="Ingrese su usuario">
+                    </div>
+                    <div class="col-8 form-group mt-3">
+                        <label class="col-12" for="password">Contraseña</label>
+                        <input type="password" class="form-control" id="password" placeholder="Ingrese su contraseña">
+                    </div>
+                </div>
+                <button type="button" class="btn btn-outline-danger mt-3" [disabled]="disBtn"[routerLink]="['/info']">Iniciar Sesión</button>
+            </div>
+    </div>
+</div>

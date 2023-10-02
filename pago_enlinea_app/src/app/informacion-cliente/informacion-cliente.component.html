@@ -112,6 +112,11 @@
       </h4>
     </div>
   </div>
+  <!--BARCODE-->
+  <div >
+    BARCODE
+    //<img id="barcode">
+  </div>
   <div style="widht:100%; padeing-top: 10px">
     <div style="widht:100%; justify-content: space-between;">
       <button class="btn btn-primary" (click)="mostrardetalle()" style="padding-left: 2%; margin-left: 1%;">
@@ -119,6 +124,9 @@
       </button>
       <button class="btn btn-primary" [routerLink]="['/tarjeta']" style="padding-left:2%; margin-left: 1%;">
         Pagar
+      </button>
+      <button class="btn btn-primary" (click)="openStoreModal()" style="padding-left:2%; margin-left: 1%;">
+        Pago en tienda
       </button>
       <button class="btn btn-primary" (click)="logout()" [routerLink]="['/']" style="padding-left: 2%; margin-left: 1%;">
         Salir
@@ -138,5 +146,18 @@
       </button>
     </div>
     <br>
+  </div>
+  <!-- Modal / Popup de Pago -->
+  <div class="modal custom-modal" [style.display]="storeModalOpen ? 'block' : 'none'" id="paymentModal">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h2>Cargando</h2>
+        </div>
+        <div class="modal-body">
+            <div class="payment-info">
+                <h3>Redireccionando...</h3>
+            </div>
+        </div>
+    </div>
   </div>
 </div>

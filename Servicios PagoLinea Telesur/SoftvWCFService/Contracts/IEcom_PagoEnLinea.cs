@@ -27,6 +27,10 @@ namespace SoftvWCFService.Contracts
         ParametrosPagoRedireccionEntity GetGeneraDatosPago(long? Clv_Session, long? Contrato, decimal Total);
 
         [OperationContract]
+        [WebInvoke(Method = "*", UriTemplate = "GetGeneraDatosPagoStore", RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Wrapped)]
+        ParametrosPagoRedireccionEntity GetGeneraDatosPagoStore(long? Clv_Session, long? Contrato, decimal Total);
+
+        [OperationContract]
         [WebInvoke(Method = "POST", UriTemplate = "GetNotificacionesWebhook", RequestFormat = WebMessageFormat.Json)]
         void GetNotificacionesWebhook();
 
