@@ -40,7 +40,7 @@ app.MapPost("/eii/webhook", ([FromBody] object? myJsonResponse) =>
         Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse.ToString());
         if (myDeserializedClass.type != "verification")
         {
-            using (SqlConnection cnn = new SqlConnection("Server=192.168.50.241\\lab11;Database=NewSoftvWeb;User Id=sa;Password=0601x-2L;"))
+            using (SqlConnection cnn = new SqlConnection("Server=192.168.60.89,10000;Database=NewSoftvWeb;User Id=sa;Password=0601x-2L;"))
             {
                 cnn.Open();
                 SqlCommand sqlCommand = new SqlCommand("AfectaPagoNotificacionOpenPay", cnn);
