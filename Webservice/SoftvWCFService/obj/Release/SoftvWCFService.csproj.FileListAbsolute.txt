@@ -1,0 +1,486 @@
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvWCFService.dll.config
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvWCFService.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvWCFService.pdb
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Globals.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.BAL.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Entities.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Providers.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.SQL.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvConfiguration.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Buffers.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Extensions.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Primitives.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Newtonsoft.Json.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Globals.pdb
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.BAL.pdb
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvConfiguration.pdb
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Entities.pdb
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Providers.pdb
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.SQL.pdb
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Extensions.xml
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Primitives.xml
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Newtonsoft.Json.xml
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.csproj.App.config
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.csprojResolveAssemblyReference.cache
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.pdb
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\LoggingManagement.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\log4net.dll
+C:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\LoginCore.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvWCFService.dll.config
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvWCFService.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvWCFService.pdb
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Globals.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Extensions.Primitives.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Net.Http.Headers.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.BAL.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Entities.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Providers.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.SQL.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvConfiguration.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Buffers.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Extensions.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Primitives.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\LoggingManagement.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Newtonsoft.Json.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\log4net.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\LoginCore.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Globals.pdb
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.BAL.pdb
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvConfiguration.pdb
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Entities.pdb
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Providers.pdb
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.SQL.pdb
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Extensions.Primitives.xml
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Net.Http.Headers.xml
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Extensions.xml
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Primitives.xml
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Newtonsoft.Json.xml
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.csproj.App.config
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.csprojAssemblyReference.cache
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CoreCompileInputs.cache
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CopyComplete
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.dll
+E:\Users\Jano\Documents\GitHub\ProyectosSG\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.pdb
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvWCFService.dll.config
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvWCFService.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvWCFService.pdb
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\CrystalDecisions.Shared.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\CrystalDecisions.Web.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Globals.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.BAL.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Entities.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Providers.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.SQL.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvConfiguration.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Buffers.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Configuration.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Extensions.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Primitives.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Web.DynamicData.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Web.Entity.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Web.Services.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Xml.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\LoggingManagement.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Newtonsoft.Json.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\log4net.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\LoginCore.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\stdole.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Globals.pdb
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.BAL.pdb
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.BAL.dll.config
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\SoftvConfiguration.pdb
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Entities.pdb
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.Providers.pdb
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.SQL.pdb
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Softv.SQL.dll.config
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Extensions.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Net.Http.Primitives.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\bin\Newtonsoft.Json.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.csproj.App.config
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.csprojAssemblyReference.cache
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CopyComplete
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce\SoftvWCFService\obj\Release\SoftvWCFService.pdb
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\SoftvWCFService.dll.config
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\SoftvWCFService.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\SoftvWCFService.pdb
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\CrystalDecisions.Shared.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\CrystalDecisions.Web.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Newtonsoft.Json.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Buffers.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Configuration.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Net.Http.Extensions.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Net.Http.Primitives.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Web.DynamicData.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Web.Entity.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Web.Services.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Xml.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\stdole.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\Newtonsoft.Json.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Net.Http.Extensions.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Net.Http.Primitives.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\obj\Release\SoftvWCFService.csproj.App.config
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CopyComplete
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\obj\Release\SoftvWCFService.dll
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\obj\Release\SoftvWCFService.pdb
+C:\Users\Jano\Documents\GitHub\PagoLineaGiga\ecommerce\wcf-service-ecommerce - copia\SoftvWCFService\obj\Release\SoftvWCFService.csprojAssemblyReference.cache
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.dll.config
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.pdb
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.Shared.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.Web.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Newtonsoft.Json.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Buffers.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Configuration.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Extensions.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Primitives.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.DynamicData.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.Entity.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.Services.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Xml.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\stdole.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Newtonsoft.Json.xml
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Extensions.xml
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Primitives.xml
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.App.config
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CopyComplete
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.dll
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.pdb
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csprojAssemblyReference.cache
+C:\Users\Jano\Documents\GitHub\Servicios PagoLinea Telesur\SoftvWCFService\bin\Openpay.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.dll.config
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.pdb
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.ReportSource.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.Shared.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.Web.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Extensions.Primitives.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Net.Http.Headers.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Newtonsoft.Json.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Openpay.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Buffers.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Configuration.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Extensions.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Primitives.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.DynamicData.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.Entity.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.Services.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Xml.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\stdole.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Extensions.Primitives.xml
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.xml
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.xml
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Net.Http.Headers.xml
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Newtonsoft.Json.xml
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Extensions.xml
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Primitives.xml
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.App.config
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.AssemblyReference.cache
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CoreCompileInputs.cache
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CopyComplete
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.dll
+D:\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.pdb
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.dll.config
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.pdb
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.ReportSource.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.Shared.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.Web.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Extensions.Primitives.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Net.Http.Headers.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Newtonsoft.Json.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Openpay.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Buffers.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Configuration.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Extensions.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Primitives.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.DynamicData.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.Entity.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.Services.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Xml.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\stdole.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Extensions.Primitives.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Net.Http.Headers.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Newtonsoft.Json.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Extensions.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Primitives.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.App.config
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.AssemblyReference.cache
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CoreCompileInputs.cache
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CopyComplete
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.pdb
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Memory.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Numerics.Vectors.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Encodings.Web.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Json.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Threading.Tasks.Extensions.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.ValueTuple.dll
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Buffers.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Memory.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Numerics.Vectors.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Encodings.Web.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Json.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Threading.Tasks.Extensions.xml
+D:\Softv Project\PASARELAS PAGOS\Telesur\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.ValueTuple.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.dll.config
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.pdb
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.ReportSource.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.Shared.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.Web.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Extensions.Primitives.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Net.Http.Headers.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Newtonsoft.Json.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Openpay.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Buffers.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Configuration.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Memory.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Extensions.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Primitives.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Numerics.Vectors.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Encodings.Web.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Json.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Threading.Tasks.Extensions.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.ValueTuple.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.DynamicData.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.Entity.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.Services.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Xml.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Extensions.Primitives.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Net.Http.Headers.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\Newtonsoft.Json.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Buffers.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Memory.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Extensions.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Primitives.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Numerics.Vectors.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Encodings.Web.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Json.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Threading.Tasks.Extensions.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.ValueTuple.xml
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.App.config
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.AssemblyReference.cache
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CoreCompileInputs.cache
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CopyComplete
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.dll
+D:\Softv Project\PASARELAS PAGOS\OpenPay\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.pdb
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.dll.config
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\SoftvWCFService.pdb
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.Shared.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\CrystalDecisions.Web.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Newtonsoft.Json.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Openpay.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Buffers.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Configuration.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Memory.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Extensions.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Primitives.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Numerics.Vectors.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Encodings.Web.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Json.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.ValueTuple.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.DynamicData.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.Entity.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Web.Services.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Xml.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\Newtonsoft.Json.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Buffers.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Memory.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Extensions.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Net.Http.Primitives.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Numerics.Vectors.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Encodings.Web.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Text.Json.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\bin\System.ValueTuple.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.App.config
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.AssemblyReference.cache
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CopyComplete
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Servicios PagoLinea Telesur\SoftvWCFService\obj\Release\SoftvWCFService.pdb
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\SoftvWCFService.dll.config
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\SoftvWCFService.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\SoftvWCFService.pdb
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\CrystalDecisions.Shared.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\CrystalDecisions.Web.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Newtonsoft.Json.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Openpay.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Buffers.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Configuration.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Memory.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Net.Http.Extensions.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Net.Http.Primitives.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Numerics.Vectors.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Text.Encodings.Web.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Text.Json.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.ValueTuple.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Web.DynamicData.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Web.Entity.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Web.Services.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Xml.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\Newtonsoft.Json.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Buffers.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Memory.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Net.Http.Extensions.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Net.Http.Primitives.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Numerics.Vectors.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Text.Encodings.Web.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Text.Json.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\System.ValueTuple.xml
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\obj\Release\SoftvWCFService.csproj.App.config
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\obj\Release\SoftvWCFService.csproj.AssemblyReference.cache
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CopyComplete
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\obj\Release\SoftvWCFService.dll
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\obj\Release\SoftvWCFService.pdb
