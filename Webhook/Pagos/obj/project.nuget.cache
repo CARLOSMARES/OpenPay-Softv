@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G//QN2i0feleNqZlJ5X1iwWVmb8oOT1cxreIh7KCvaEdV2byQtIjjHHzlo8vfGZvVVZ5NtnCy4YY50avy93/Lg==",
+  "dgSpecHash": "z+3o6OsCgB/aBMTYeFJ8JD3IfnLruxyW56b44PInDcVqzXm2bg3N/BGA/JOFg5veEclDt3z7gkqxVne1dRJQOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Pagos\\Pagos\\Pagos.csproj",
+  "projectFilePath": "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Webhook\\Pagos\\Pagos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Edy\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

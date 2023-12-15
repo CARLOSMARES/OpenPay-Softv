@@ -13,7 +13,8 @@ using Openpay.Utils;
 using Openpay.Entities.Request;
 using Newtonsoft.Json.Linq;
 using System.Diagnostics.Contracts;
-
+using Newtonsoft.Json;
+using System.IO;
 namespace SoftvWCFService.Functions
 {
     public class Ecom_PagoEnLinea: DataAccess
@@ -152,7 +153,7 @@ namespace SoftvWCFService.Functions
                 dbGuarda.agregarParametro("@Contrato", SqlDbType.BigInt, Contrato);
                 dbGuarda.consultaSinRetorno("GuardaSessionOpenPayID");
 
-                result.URLRedireccion = charge.PaymentMethod.Url;
+                result.urlRedireccion = charge.PaymentMethod.Url;
             }
             catch (Exception ex)
             {
@@ -160,6 +161,97 @@ namespace SoftvWCFService.Functions
                 throw new Exception("Error getting data Get Contrato " + ex.Message, ex);
             }
                  
+            return result;
+        }
+
+        public ParametrosPagoRedireccionEntity GetGeneraDatosPagoStore(long? Clv_Session, long? Contrato, decimal Total)
+        {
+            ParametrosPagoRedireccionEntity result = new ParametrosPagoRedireccionEntity();
+            ParametrosOpenPayEntity parametrosOpenPay = new ParametrosOpenPayEntity();
+            DatosClienteEntity datosCliente = new DatosClienteEntity();
+            DatosFechasPago fechaPago = new DatosFechasPago();
+
+            //Crear conexion a la bdd
+            DBFuncion dbDatosCliente = new DBFuncion();
+            dbDatosCliente.agregarParametro("@Contrato", SqlDbType.BigInt, Contrato);
+            //Obtiene los datos del cliente
+            SqlDataReader readerDatosCliente = dbDatosCliente.consultaReader("ObtieneDatosClientePagoLinea");
+            datosCliente = dbDatosCliente.MapDataToEntityCollection<DatosClienteEntity>(readerDatosCliente).FirstOrDefault();
+            //Cierra conexion
+            dbDatosCliente.conexion.Close();
+            dbDatosCliente.conexion.Dispose();
+            try
+            {
+                //Obtiene la url para la pasarela de pagos
+                DBFuncion db = new DBFuncion();
+                SqlDataReader reader = db.consultaReader("ObtieneParametrosOpenPay");
+                parametrosOpenPay = db.MapDataToEntityCollection<ParametrosOpenPayEntity>(reader).FirstOrDefault();
+                db.conexion.Close();
+                db.conexion.Dispose();
+
+                DBFuncion dbFechaPago = new DBFuncion();
+                dbFechaPago.agregarParametro("@Contrato", SqlDbType.BigInt, Contrato);
+                //Obtiene los datos del cliente
+                SqlDataReader readerFechaPago = dbFechaPago.consultaReader("SP_InformacionClienes");
+                fechaPago = dbFechaPago.MapDataToEntityCollection<DatosFechasPago>(readerFechaPago).FirstOrDefault();
+                //Cierra conexion
+                dbFechaPago.conexion.Close();
+                dbFechaPago.conexion.Dispose();
+
+
+                //Se crea una clase de openpay
+                OpenpayAPI api = new OpenpayAPI(parametrosOpenPay.LlavePrivada, parametrosOpenPay.ID);
+                api.Production = false;
+                //Se le agregan los parametros
+                ChargeRequest request = new ChargeRequest();
+
+                //Se agregan los datos del cliente
+                Customer customer = new Customer();
+                customer.Name = datosCliente.SoloNombre;
+                customer.LastName = datosCliente.SoloApellidos;
+                customer.PhoneNumber = datosCliente.Telefono;
+                customer.Email = datosCliente.Email;
+
+                //Se agregan los datos del cargo
+                request.Method = "store";
+                request.Amount = decimal.Parse(Total.ToString("0.##"));
+                request.Description = "Cargo pago en tienda Eii";
+                request.OrderId = Clv_Session.ToString();
+                request.Confirm = "false";
+                request.SendEmail = true;
+                //request.RedirectUrl = "https://eimexico.com/";
+                request.Customer = customer;
+                request.Currency = "MXN";
+
+                // Establecer limite de fecha de pago, dia actual a las 23:59:59
+                DateTime fechaActual = DateTime.Now;
+                DateTime fechaVencimiento = new DateTime(fechaActual.Year, fechaActual.Month, fechaActual.Day, 23, 59, 59);
+                request.DueDate = fechaVencimiento;
+
+                //Crea un cargo a la api
+                Charge charge = api.ChargeService.Create(request);
+
+                //Para imprimir respuesta
+                //string chargeAsJson = JsonConvert.SerializeObject(charge, Formatting.Indented);
+                //File.WriteAllText("C:\\Users\\Edy\\Desktop/respuesta.json ", chargeAsJson.ToString());
+
+                //Guarda la respuesta en sessionOpenpay
+                DBFuncion dbGuarda = new DBFuncion();
+                dbGuarda.agregarParametro("@Clv_Session", SqlDbType.BigInt, Clv_Session);
+                dbGuarda.agregarParametro("@ID", SqlDbType.VarChar, charge.Id);
+                dbGuarda.agregarParametro("@Contrato", SqlDbType.BigInt, Contrato);
+                dbGuarda.consultaSinRetorno("GuardaSessionOpenPayID");
+
+                //Guarda lo necesario
+                result.urlBarcode = charge.PaymentMethod.BarcodeURL;
+                result.Reference = charge.PaymentMethod.Reference;
+                result.urlRecibo = "https://sandbox-dashboard.openpay.mx/paynet-pdf/" + parametrosOpenPay.ID + "/" + charge.PaymentMethod.Reference; ;
+                result.FechaPago = fechaPago.Corte;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error getting data Get Contrato Store" + ex.Message, ex);
+            }
             return result;
         }
 

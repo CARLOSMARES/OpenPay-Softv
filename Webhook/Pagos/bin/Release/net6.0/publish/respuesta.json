@@ -1,1 +1,37 @@
-{"type":"charge.succeeded","event_date":"2023-09-21T12:16:11-06:00","transaction":{"id":"trrevnnyuptmpqpbhps7","authorization":"801585","operation_type":"in","transaction_type":"charge","status":"completed","conciliated":false,"creation_date":"2023-09-21T12:15:32-06:00","operation_date":"2023-09-21T12:16:06-06:00","description":"Cargo desde terminal virtual de Telesur","error_message":null,"order_id":"4101856","card":{"type":"credit","brand":"visa","address":null,"card_number":"424242XXXXXX4242","holder_name":"Prueba","expiration_year":"41","expiration_month":"09","allows_charges":true,"allows_payouts":false,"bank_name":"BANCOMER","points_type":"bancomer","points_card":true,"bank_code":"012"},"amount":320.00,"customer":{"name":"JOSE MARIA","last_name":"RENDON ZERTUCHE","email":"no@gmail.com","phone_number":"8666354807","address":null,"creation_date":"2023-09-21T12:15:33-06:00","external_id":null,"clabe":null},"fee":{"amount":11.7800,"tax":1.8848,"currency":"MXN"},"currency":"MXN","payment_method":{"type":"redirect","url":"https://pagos.micabletelesur.com/?id=trrevnnyuptmpqpbhps7#/home"},"metadata":{"Aceptación de politica de privacidad de  comprador":"jueves, septiembre 21 2023, 12:16:05","Aceptación término y condiciones de comprador":"jueves, septiembre 21 2023, 12:16:05"},"method":"card"}}
+{
+     "type": "charge.created",
+     "event_date": "2023-12-13T13:56:01-06:00",
+     "transaction": {
+          "id": "tr2pmlg21p1dd2rcsfe3",
+          "authorization": null,
+          "operation_type": "in",
+          "transaction_type": "charge",
+          "status": "in_progress",
+          "conciliated": false,
+          "creation_date": "2023-12-13T13:56:01-06:00",
+          "operation_date": "2023-12-13T13:56:01-06:00",
+          "description": "Cargo pago en tienda Eii",
+          "error_message": null,
+          "order_id": "311266",
+          "due_date": "2023-12-13T23:59:59-06:00",
+          "amount": 1,
+          "customer": {
+               "name": "JUDITH",
+               "last_name": "COLMENARES MALDONADO",
+               "email": "judycolmado400@gmail.com",
+               "phone_number": "2213877268",
+               "address": null,
+               "creation_date": "2023-12-13T13:56:01-06:00",
+               "external_id": null,
+               "clabe": null
+          },
+          "payment_method": {
+               "type": "store",
+               "reference": "1010101915197393",
+               "barcode_url": "https://sandbox-api.openpay.mx/barcode/1010101915197393?width=1&height=45&text=false",
+               "url_store": "https://sandbox-api.openpay.mx/v1/mhicmp53iumkid93dhab/customers/9608229/tr2pmlg21p1dd2rcsfe3/store_confirm"
+          },
+          "currency": "MXN",
+          "method": "store"
+     }
+}

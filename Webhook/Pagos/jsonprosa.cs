@@ -19,13 +19,18 @@ namespace Pagos
     {
         public string? type { get; set; }
         public string? url { get; set; }
+        public string? reference { get; set; }
+        public string? paybin_reference { get; set; }
+        public string? barcode_url { get; set; }
+        public string? barcode_url_paybin { get; set; }
+        public string? url_store { get; set; }
     }
 
     public class Root
     {
         public string? type { get; set; }
         public DateTime? event_date { get; set; }
-        public Transaction Transaction { get; set; }
+        public Transaction transaction { get; set; }
         public string? verification_code { get; set; }
 
         public string? id { get; set; }
@@ -37,7 +42,7 @@ namespace Pagos
         public string? id { get; set; }
         public string? authorization { get; set; }
         public string? operation_type { get; set; }
-        public string? Transaction_type { get; set; }
+        public string? transaction_type { get; set; }
         public string? status { get; set; }
         public bool? conciliated { get; set; }
         public DateTime? creation_date { get; set; }
@@ -45,8 +50,9 @@ namespace Pagos
         public string? description { get; set; }
         public object? error_message { get; set; }
         public string? order_id { get; set; }
-        public Card Card { get; set; }
+        public DateTime? due_date { get; set; }
         public double? amount { get; set; }
+        public Card Card { get; set; }
         public Customer customer { get; set; }
         public Fee fee { get; set; }
         public PaymentMethod payment_method { get; set; }

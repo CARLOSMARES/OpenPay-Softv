@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Pagos\\Pagos\\Pagos.csproj": {}
+    "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Webhook\\Pagos\\Pagos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Pagos\\Pagos\\Pagos.csproj": {
+    "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Webhook\\Pagos\\Pagos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Pagos\\Pagos\\Pagos.csproj",
+        "projectUniqueName": "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Webhook\\Pagos\\Pagos.csproj",
         "projectName": "Pagos",
-        "projectPath": "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Pagos\\Pagos\\Pagos.csproj",
+        "projectPath": "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Webhook\\Pagos\\Pagos.csproj",
         "packagesPath": "C:\\Users\\Edy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Pagos\\Pagos\\obj\\",
+        "outputPath": "C:\\Users\\Edy\\Desktop\\OpenPay-Softv\\Webhook\\Pagos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edy\\AppData\\Roaming\\NuGet\\NuGet.Config",

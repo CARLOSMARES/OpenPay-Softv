@@ -484,3 +484,4 @@ C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\obj\Release\SoftvW
 C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\obj\Release\SoftvWCFService.csproj.CopyComplete
 C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\obj\Release\SoftvWCFService.dll
 C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\obj\Release\SoftvWCFService.pdb
+C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\stdole.dll

@@ -47,8 +47,15 @@ namespace SoftvWCFService.Entities
     public class ParametrosPagoRedireccionEntity
     {
         [DataMember]
-        public String URLRedireccion { get; set; }
-
+        public String urlRedireccion { get; set; }
+        [DataMember]
+        public String urlBarcode { get; set; }
+        [DataMember]
+        public String Reference { get; set; }
+        [DataMember]
+        public String FechaPago { get; set; }
+        [DataMember]
+        public String urlRecibo { get; set; }
     }
 
     [DataContract]
@@ -118,6 +125,30 @@ namespace SoftvWCFService.Entities
         #endregion
     }
 
+    [DataContract]
+    [Serializable]
+    public class DatosFechasPago
+    {
+        #region Attributes
 
+        [DataMember]
+        public String Periodos { get; set; }
+
+        [DataMember]
+        public String Puntos { get; set; }
+
+        [DataMember]
+        public String Alta { get; set; }
+
+        [DataMember]
+        public String Corte { get; set; }
+
+        [DataMember]
+        public String Periodo1 { get; set; }
+
+        [DataMember]
+        public String PeriodoFin { get; set; }
+        #endregion
+    }
 }
 

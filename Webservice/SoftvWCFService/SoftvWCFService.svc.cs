@@ -768,6 +768,25 @@ namespace SoftvWCFService
             }
         }
 
+        public ParametrosPagoRedireccionEntity GetGeneraDatosPagoStore(long? Clv_Session, long? Contrato, decimal Total)
+        {
+            if (WebOperationContext.Current.IncomingRequest.Method == "OPTIONS")
+            {
+                return null;
+            }
+            else
+            {
+                try
+                {
+                    return Ecom_PagoEnLinea.GetGeneraDatosPagoStore(Clv_Session, Contrato, Total);
+                }
+                catch (Exception ex)
+                {
+                    throw new WebFaultException<string>(ex.Message, HttpStatusCode.ExpectationFailed);
+                }
+            }
+        }
+
         public void GetNotificacionesWebhook()
         {
             if (WebOperationContext.Current.IncomingRequest.Method != "OPTIONS")
