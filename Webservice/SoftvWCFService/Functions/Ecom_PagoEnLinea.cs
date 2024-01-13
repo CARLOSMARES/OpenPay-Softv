@@ -123,7 +123,10 @@ namespace SoftvWCFService.Functions
                 db.conexion.Dispose();
 
                 OpenpayAPI api = new OpenpayAPI(parametrosOpenPay.LlavePrivada, parametrosOpenPay.ID);
-                api.Production = false;
+
+                //IMPORTANTE CAMBIAR
+                api.Production = true;
+
                 ChargeRequest request = new ChargeRequest();
                 Customer customer = new Customer();
                 customer.Name = datosCliente.SoloNombre;
@@ -201,7 +204,9 @@ namespace SoftvWCFService.Functions
 
                 //Se crea una clase de openpay
                 OpenpayAPI api = new OpenpayAPI(parametrosOpenPay.LlavePrivada, parametrosOpenPay.ID);
-                api.Production = false;
+
+                //IMPORTANTE CAMBIAR DEPENDIENDO EL AMBIENTE
+                api.Production = true;
                 //Se le agregan los parametros
                 ChargeRequest request = new ChargeRequest();
 
@@ -245,7 +250,10 @@ namespace SoftvWCFService.Functions
                 //Guarda lo necesario
                 result.urlBarcode = charge.PaymentMethod.BarcodeURL;
                 result.Reference = charge.PaymentMethod.Reference;
-                result.urlRecibo = "https://sandbox-dashboard.openpay.mx/paynet-pdf/" + parametrosOpenPay.ID + "/" + charge.PaymentMethod.Reference; ;
+                //AMBIENTE DE PRUEBAS
+                //result.urlRecibo = "https://sandbox-dashboard.openpay.mx/paynet-pdf/" + parametrosOpenPay.ID + "/" + charge.PaymentMethod.Reference;
+                //AMBIENTE DE PRODRUCCION
+                result.urlRecibo = "https://dashboard.openpay.mx/paynet-pdf/" + parametrosOpenPay.ID + "/" + charge.PaymentMethod.Reference;
                 result.FechaPago = fechaPago.Corte;
             }
             catch (Exception ex)
