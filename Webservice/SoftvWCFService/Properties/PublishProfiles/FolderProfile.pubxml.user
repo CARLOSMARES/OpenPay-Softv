@@ -5,117 +5,117 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Edy\Desktop\OpenPay-Softv\Webservice\SoftvWCFService\bin\app.publish\</_PublishTargetUrl>
-    <History>True|2024-01-13T17:54:16.4012892Z;True|2023-12-13T16:34:45.8395737-06:00;True|2023-11-21T12:26:41.1329042-06:00;True|2023-11-21T12:21:03.4778541-06:00;True|2023-10-17T12:17:35.4931005-06:00;True|2023-09-21T11:39:17.5835754-06:00;True|2023-07-31T09:57:35.4335184-06:00;True|2023-07-31T09:37:46.8884202-06:00;True|2023-07-31T09:36:45.7701982-06:00;True|2023-07-31T09:21:26.9046894-06:00;True|2023-07-31T08:50:48.9119162-06:00;True|2023-07-20T11:14:57.3456063-06:00;True|2023-07-13T09:20:00.6435314-06:00;True|2023-07-12T17:36:28.2634766-06:00;True|2023-07-12T16:49:46.1142946-06:00;True|2023-07-08T11:46:13.6779794-06:00;</History>
+    <History>True|2024-03-21T20:00:12.9400836Z;True|2024-01-13T11:54:16.4012892-06:00;True|2023-12-13T16:34:45.8395737-06:00;True|2023-11-21T12:26:41.1329042-06:00;True|2023-11-21T12:21:03.4778541-06:00;True|2023-10-17T12:17:35.4931005-06:00;True|2023-09-21T11:39:17.5835754-06:00;True|2023-07-31T09:57:35.4335184-06:00;True|2023-07-31T09:37:46.8884202-06:00;True|2023-07-31T09:36:45.7701982-06:00;True|2023-07-31T09:21:26.9046894-06:00;True|2023-07-31T08:50:48.9119162-06:00;True|2023-07-20T11:14:57.3456063-06:00;True|2023-07-13T09:20:00.6435314-06:00;True|2023-07-12T17:36:28.2634766-06:00;True|2023-07-12T16:49:46.1142946-06:00;True|2023-07-08T11:46:13.6779794-06:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/CrystalDecisions.CrystalReports.Engine.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/CrystalDecisions.ReportSource.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/CrystalDecisions.Shared.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/CrystalDecisions.Web.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/Microsoft.Extensions.Primitives.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/Microsoft.IdentityModel.Abstractions.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/Microsoft.IdentityModel.JsonWebTokens.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/Microsoft.IdentityModel.Logging.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/Microsoft.Net.Http.Headers.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/Openpay.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/SoftvWCFService.dll">
-      <publishTime>01/13/2024 11:54:16</publishTime>
+      <publishTime>03/21/2024 14:00:12</publishTime>
     </File>
     <File Include="bin/SoftvWCFService.pdb">
-      <publishTime>01/13/2024 11:54:16</publishTime>
+      <publishTime>03/21/2024 14:00:12</publishTime>
     </File>
     <File Include="bin/stdole.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/System.Buffers.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/System.Configuration.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:59</publishTime>
     </File>
     <File Include="bin/System.Memory.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:59</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Extensions.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Primitives.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/System.Numerics.Vectors.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:59</publishTime>
     </File>
     <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:59</publishTime>
     </File>
     <File Include="bin/System.Text.Encodings.Web.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="bin/System.Text.Json.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="bin/System.Threading.Tasks.Extensions.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="bin/System.ValueTuple.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="bin/System.Web.DynamicData.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/System.Web.Entity.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/System.Web.Services.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="bin/System.Xml.dll">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="LICENSE">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>01/13/2024 11:27:15</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="SoftvWCFService.svc">
-      <publishTime>01/13/2024 11:27:16</publishTime>
+      <publishTime>03/19/2024 12:00:58</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/13/2024 11:54:16</publishTime>
+      <publishTime>03/21/2024 14:00:12</publishTime>
     </File>
   </ItemGroup>
 </Project>

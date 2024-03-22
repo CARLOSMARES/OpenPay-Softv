@@ -1211,6 +1211,25 @@ namespace SoftvWCFService
             }
         }
 
+        public StatusEntity GetStatusPago(long? Clv_Session)
+        {
+            if (WebOperationContext.Current.IncomingRequest.Method == "OPTIONS")
+            {
+                return null;
+            }
+            else
+            {
+                try
+                {
+                    return Ecom_PagoEnLinea.GetStatusPago(Clv_Session);
+                }
+                catch (Exception ex)
+                {
+                    throw new WebFaultException<string>(ex.Message, HttpStatusCode.ExpectationFailed);
+                }
+            }
+        }
+
         #endregion
 
     }

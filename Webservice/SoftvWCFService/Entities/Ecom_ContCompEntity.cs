@@ -150,5 +150,26 @@ namespace SoftvWCFService.Entities
         public String PeriodoFin { get; set; }
         #endregion
     }
+
+    //GetStatus
+    [DataContract]
+    [Serializable]
+    public class StatusEntity
+    {
+        #region Attributes
+
+        [DataMember]
+        public long Clv_Session { get; set; }
+
+        [DataMember]
+        public String Status { get; set; }
+        [DataMember]
+        public String Nombre { get; set; }
+
+        [DataMember]
+        public String Fecha { get; set; }
+
+        #endregion
+    }
 }
 

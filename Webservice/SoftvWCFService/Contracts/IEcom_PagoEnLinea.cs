@@ -100,6 +100,12 @@ namespace SoftvWCFService.Contracts
         [WebInvoke(Method = "*", UriTemplate = "GetReporteTicket", RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Wrapped)]
         string GetReporteTicket(long? Clv_Factura);
 
+        //Consutlar status pago
+        [OperationContract]
+        [WebInvoke(Method = "*", UriTemplate = "GetStatusPago", RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Wrapped)]
+        StatusEntity GetStatusPago(long? Clv_Session);
+
+
     }
 }
 

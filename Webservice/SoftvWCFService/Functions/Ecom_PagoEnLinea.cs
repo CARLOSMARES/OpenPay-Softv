@@ -133,6 +133,8 @@ namespace SoftvWCFService.Functions
                 customer.LastName = datosCliente.SoloApellidos;
                 customer.PhoneNumber = datosCliente.Telefono;
                 customer.Email = datosCliente.Email;
+                //Agrega
+                customer.ExternalId = datosCliente.ContratoCompuesto;
 
                 request.Method = "card";
                 request.Amount = decimal.Parse(Total.ToString("0.##"));
@@ -145,8 +147,8 @@ namespace SoftvWCFService.Functions
                 request.Use3DSecure = true;
                 //Ejemplo
                 //https://micuentaei.com/#/login?clv=123&nombre=edy&amount=45
-                request.RedirectUrl = "https://micuentaei.com/#/login?clv="+request.OrderId+"&amount="+request.Amount+"&nombre="+datosCliente.SoloNombre;
-
+                //request.RedirectUrl = "https://micuentaei.com/#/login?clv="+request.OrderId+"&amount="+request.Amount+"&nombre="+datosCliente.SoloNombre;
+                request.RedirectUrl = "https://micuentaei.com/#/login?order=" + request.OrderId;
                 Charge charge = api.ChargeService.Create(request);
 
 
@@ -216,6 +218,8 @@ namespace SoftvWCFService.Functions
                 customer.LastName = datosCliente.SoloApellidos;
                 customer.PhoneNumber = datosCliente.Telefono;
                 customer.Email = datosCliente.Email;
+                //Agrega
+                customer.ExternalId = datosCliente.ContratoCompuesto;
 
                 //Se agregan los datos del cargo
                 request.Method = "store";
@@ -1188,6 +1192,41 @@ namespace SoftvWCFService.Functions
                 throw new Exception("Error converting tieneEdoCuenta data to entity", ex);
             }
             return entity_tieneEdoCuenta;
+        }
+
+        //Status
+        public StatusEntity GetStatusPago(long? Clv_Session)
+        {
+            try
+            {
+                //Creamos un objeto de la clase StatusEntity
+                StatusEntity statusEntity = new StatusEntity();
+
+                //Crear conexion a la bdd
+                DBFuncion dbStatus = new DBFuncion();
+
+                //Agregar parametros para el procedimiento
+                dbStatus.agregarParametro("@OrderID", SqlDbType.BigInt, Clv_Session);
+
+                //Ejecuta el procedimiento
+                SqlDataReader readerStatus = dbStatus.consultaReader("GetStatusPago");
+
+                //Guarda los datos
+                statusEntity = dbStatus.MapDataToEntityCollection<StatusEntity>(readerStatus).FirstOrDefault();
+
+                //Cierra conexion
+                dbStatus.conexion.Close();
+                dbStatus.conexion.Dispose();
+
+                //Para imprimir respuesta
+                //string chargeAsJson = JsonConvert.SerializeObject(charge, Formatting.Indented);
+                //File.WriteAllText("C:\\Users\\Edy\\Desktop/respuesta.json ", chargeAsJson.ToString());
+                return statusEntity;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error getting data Get Contrato Store" + ex.Message, ex);
+            }
         }
     }
 }
