@@ -134,7 +134,8 @@ namespace SoftvWCFService.Functions
                 customer.PhoneNumber = datosCliente.Telefono;
                 customer.Email = datosCliente.Email;
                 //Agrega
-                customer.ExternalId = datosCliente.ContratoCompuesto;
+                //customer.ExternalId = datosCliente.ContratoCompuesto;
+                customer.ExternalId = $"{Clv_Session}/{Contrato}";
 
                 request.Method = "card";
                 request.Amount = decimal.Parse(Total.ToString("0.##"));
